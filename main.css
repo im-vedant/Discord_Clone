@@ -100,20 +100,20 @@
 @font-face {
   font-family: "ggSans";
   font-weight: 400;
-  src: url(fonts/gg-sans/ggsans-Normal.ttf);
+  src: url(Fonts/gg-sans/ggsans-Normal.ttf);
 }
 @font-face {
   font-family: "ggSans";
   font-weight: 500;
-  src: url(fonts/gg-sans/ggsans-Medium.ttf);
+  src: url(Fonts/gg-sans/ggsans-Medium.ttf);
 }
 @font-face {
   font-family: "ggSans";
   font-weight: 600;
-  src: url(fonts/gg-sans/ggsans-Semibold.ttf);
+  src: url(Fonts/gg-sans/ggsans-Semibold.ttf);
 }
 @font-face {
   font-family: "ggSans";
   font-weight: 700;
-  src: url(fonts/gg-sans/ggsans-Bold.ttf);
+  src: url(Fonts/gg-sans/ggsans-Bold.ttf);
 }
